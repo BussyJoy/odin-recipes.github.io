@@ -1,0 +1,38 @@
+/*style.css*/
+
+div {
+    color: white;
+    background-color: black;
+}
+
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 150%;
+  }
+  h2 {
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 150%;
+  }   
+  h3 {
+    color: green;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 150%;
+  }
+  h4 {
+    color: green;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 150%;
+  }   
+  p {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    padding: 10px;
+
+  }
+  
